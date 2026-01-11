@@ -1,0 +1,5 @@
+age,sex,diagnosis,medications,outcome
+65,Male,"Type 2 Diabetes; Hypertension","Metformin; Lisinopril","Stable discharge"
+72,Female,"Hypertension","Amlodipine","Improved"
+58,Male,"Type 2 Diabetes","Metformin","Stable discharge"
+

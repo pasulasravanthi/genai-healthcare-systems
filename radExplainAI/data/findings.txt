@@ -1,0 +1,12 @@
+CASE 1:
+Mild cardiomegaly.
+No focal consolidation.
+
+CASE 2:
+Normal cardiac silhouette.
+Clear lung fields.
+
+CASE 3:
+Right lower lobe opacity.
+Possible pneumonia.
+

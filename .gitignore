@@ -1,0 +1,14 @@
+# Python cache
+__pycache__/
+*.pyc
+
+# Virtual environments
+genai-env/
+venv/
+
+# HuggingFace cache
+.cache/
+
+# macOS
+.DS_Store
+
